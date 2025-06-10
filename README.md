@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello! 👋 I'm Evelin
 
-<!--
-**EveArbol/Evearbol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web developer passionate about building modern and functional digital experiences. Currently, I’m working on my own e-commerce project using **Next.js**, focusing on performance and seamless user experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🔭 Currently developing an e-commerce site with Next.js  
+- 🌱 Learning and improving skills in React, TypeScript, and UX/UI design  
+- 👯 I love collaborating on open source projects and learning from the community  
+- 💬 Ask me about web development, JavaScript, React, Next.js, and e-commerce  
+- 📫 How to reach me: evelinarboleda@outlook.com  
+- ⚡ Fun fact: I’m passionate about combining technology with art and creativity  
+
+---
+
+### GitHub Stats
+
+![Evelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=evearbol&show_icons=true&theme=radical)
