@@ -13,8 +13,10 @@ I’m a web developer passionate about building modern and functional digital ex
 - 📫 How to reach me: evelinarboleda@outlook.com  
 - ⚡ Fun fact: I’m passionate about combining technology with art and creativity  
 
----
+--
 
 ### GitHub Stats
 
-![Evelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=evearbol&show_icons=true&theme=radical)
+![Evelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=evearbol&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evearbol&layout=compact&theme=radical)
